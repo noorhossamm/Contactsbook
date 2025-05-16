@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1730803478 source:c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\address.cpp
+	"Address.h"
+
+1730737098 c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\address.h
+	<string>
+	<iostream>
+
+1730803478 source:c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\contactbook.cpp
+	"ContactBook.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1730393443 c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\contactbook.h
+	<iostream>
+	<iomanip>
+	<string>
+	"DynamicArray.h"
+	"DynamicArray.cpp"
+	"Person.h"
+	<fstream>
+
+1730803554 c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\dynamicarray.h
+	<iostream>
+	<algorithm>
+
+1730803517 c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\dynamicarray.cpp
+	"DynamicArray.h"
+	<algorithm>
+
+1730737098 c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\person.h
+	<string>
+	<iostream>
+	<iomanip>
+	"Address.h"
+
+1730803517 source:c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\dynamicarray.cpp
+	"DynamicArray.h"
+	<algorithm>
+
+1730738242 source:c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\main.cpp
+	<iostream>
+	<iomanip>
+	"ContactBook.h"
+	"Person.h"
+	"Address.h"
+	"DynamicArray.h"
+
+1730739356 source:c:\users\noorh\onedrive\documents\dynamicarray\noor hossam mohamed\project1-contactsbook maanager\person.cpp
+	"Person.h"
+
+1730807078 source:c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\address.cpp
+	"Address.h"
+
+1730740698 c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\address.h
+	<string>
+	<iostream>
+
+1730807078 source:c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\contactbook.cpp
+	"ContactBook.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1730397043 c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\contactbook.h
+	<iostream>
+	<iomanip>
+	<string>
+	"DynamicArray.h"
+	"DynamicArray.cpp"
+	"Person.h"
+	<fstream>
+
+1730807154 c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\dynamicarray.h
+	<iostream>
+	<algorithm>
+
+1730807117 c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\dynamicarray.cpp
+	"DynamicArray.h"
+	<algorithm>
+
+1730740698 c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\person.h
+	<string>
+	<iostream>
+	<iomanip>
+	"Address.h"
+
+1730807117 source:c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\dynamicarray.cpp
+	"DynamicArray.h"
+	<algorithm>
+
+1730741842 source:c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\main.cpp
+	<iostream>
+	<iomanip>
+	"ContactBook.h"
+	"Person.h"
+	"Address.h"
+	"DynamicArray.h"
+
+1730742956 source:c:\users\noorh\onedrive\documents\project1\noor hossam mohamed\project1-contactsbook maanager\person.cpp
+	"Person.h"
+
