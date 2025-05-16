@@ -1,0 +1,16 @@
+# Compiled object files
+*.o
+
+# Build directories
+bin/
+obj/
+
+# Code::Blocks project files 
+*.depend
+*.layout
+
+# Doxygen docs
+doxygen/
+
+# Backup files
+*~
